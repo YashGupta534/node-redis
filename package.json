@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "---\r page_type: sample\r languages:\r - javascript\r - nodejs\r name: 'Quickstart: Use Azure Cache for Redis in Node.js'\r description: Learn how to incorporate Azure Cache for Redis into a Node.js app.\r products:\r - azure\r - azure-cache-redis\r ---\r # Quickstart: Use Azure Cache for Redis in Node.js",
+  "main": "redistest.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "http": "0.0.1-security",
+    "redis": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
